@@ -1,0 +1,13 @@
+2023-11-23 16:41:27.827 +00:00 [INF] Now listening on: https://localhost:7024
+2023-11-23 16:41:27.865 +00:00 [INF] Now listening on: http://localhost:5089
+2023-11-23 16:41:27.868 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-11-23 16:41:27.869 +00:00 [INF] Hosting environment: Development
+2023-11-23 16:41:27.870 +00:00 [INF] Content root path: C:\Users\awaraich002\Downloads\C# code practice\API\HotelListing.API\HotelListing.API
+2023-11-23 18:19:00.274 +00:00 [INF] HTTP GET /api/Countries/2 responded 200 in 1996.2378 ms
+2023-11-23 18:24:14.183 +00:00 [INF] Now listening on: https://localhost:7024
+2023-11-23 18:24:14.209 +00:00 [INF] Now listening on: http://localhost:5089
+2023-11-23 18:24:14.213 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-11-23 18:24:14.214 +00:00 [INF] Hosting environment: Development
+2023-11-23 18:24:14.215 +00:00 [INF] Content root path: C:\Users\awaraich002\Downloads\C# code practice\API\HotelListing.API\HotelListing.API
+2023-11-23 18:24:22.343 +00:00 [INF] HTTP GET /api/Countries/2 responded 200 in 875.6813 ms
+2023-11-23 18:25:59.616 +00:00 [INF] HTTP GET /api/Countries responded 200 in 25.5230 ms

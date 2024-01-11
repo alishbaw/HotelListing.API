@@ -1,0 +1,10 @@
+2023-12-05 17:13:55.401 +00:00 [INF] Now listening on: https://localhost:7024
+2023-12-05 17:13:55.431 +00:00 [INF] Now listening on: http://localhost:5089
+2023-12-05 17:13:55.436 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-05 17:13:55.439 +00:00 [INF] Hosting environment: Development
+2023-12-05 17:13:55.440 +00:00 [INF] Content root path: C:\Users\awaraich002\Downloads\C# code practice\API\HotelListing.API\HotelListing.API
+2023-12-05 20:14:17.342 +00:00 [INF] Now listening on: https://localhost:7024
+2023-12-05 20:14:17.364 +00:00 [INF] Now listening on: http://localhost:5089
+2023-12-05 20:14:17.369 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-05 20:14:17.370 +00:00 [INF] Hosting environment: Development
+2023-12-05 20:14:17.370 +00:00 [INF] Content root path: C:\Users\awaraich002\Downloads\C# code practice\API\HotelListing.API\HotelListing.API

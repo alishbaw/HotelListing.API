@@ -1,0 +1,32 @@
+2024-01-11 13:02:06.927 +00:00 [INF] HTTP GET / responded 404 in 1.8421 ms
+2024-01-11 13:07:24.747 +00:00 [INF] Now listening on: https://localhost:52884
+2024-01-11 13:07:24.779 +00:00 [INF] Now listening on: http://localhost:52885
+2024-01-11 13:07:24.782 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-01-11 13:07:24.784 +00:00 [INF] Hosting environment: Development
+2024-01-11 13:07:24.785 +00:00 [INF] Content root path: C:\Users\awaraich002\Downloads\C# code practice\API\HotelListing.API\HotelListing.API
+2024-01-11 13:07:26.624 +00:00 [INF] HTTP GET / responded 404 in 1201.1446 ms
+2024-01-11 14:12:35.364 +00:00 [INF] HTTP GET / responded 404 in 2.5268 ms
+2024-01-11 14:14:43.496 +00:00 [INF] HTTP GET / responded 307 in 2.4667 ms
+2024-01-11 14:14:43.509 +00:00 [INF] HTTP GET / responded 404 in 2.3048 ms
+2024-01-11 14:14:58.256 +00:00 [INF] HTTP GET / responded 307 in 0.1691 ms
+2024-01-11 14:14:58.267 +00:00 [INF] HTTP GET / responded 404 in 0.1444 ms
+2024-01-11 14:15:28.793 +00:00 [INF] HTTP GET / responded 307 in 0.0396 ms
+2024-01-11 14:15:28.873 +00:00 [INF] HTTP GET / responded 404 in 0.2252 ms
+2024-01-11 14:16:39.461 +00:00 [INF] HTTP GET / responded 307 in 0.0380 ms
+2024-01-11 14:16:39.487 +00:00 [INF] HTTP GET / responded 404 in 0.1369 ms
+2024-01-11 14:16:52.140 +00:00 [INF] HTTP GET / responded 307 in 0.0534 ms
+2024-01-11 14:16:52.161 +00:00 [INF] HTTP GET / responded 404 in 0.0963 ms
+2024-01-11 14:18:19.049 +00:00 [INF] HTTP GET / responded 307 in 0.0528 ms
+2024-01-11 14:18:19.057 +00:00 [INF] HTTP GET / responded 404 in 0.1856 ms
+2024-01-11 14:18:27.306 +00:00 [INF] HTTP GET / responded 307 in 0.1652 ms
+2024-01-11 14:18:27.314 +00:00 [INF] HTTP GET / responded 404 in 0.1278 ms
+2024-01-11 14:18:37.805 +00:00 [INF] HTTP GET / responded 307 in 0.0561 ms
+2024-01-11 14:18:37.816 +00:00 [INF] HTTP GET / responded 404 in 0.1026 ms
+2024-01-11 14:18:48.648 +00:00 [INF] Application is shutting down...
+2024-01-11 14:19:26.948 +00:00 [INF] Now listening on: https://localhost:52884
+2024-01-11 14:19:26.977 +00:00 [INF] Now listening on: http://localhost:52885
+2024-01-11 14:19:26.980 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-01-11 14:19:26.981 +00:00 [INF] Hosting environment: Development
+2024-01-11 14:19:26.981 +00:00 [INF] Content root path: C:\Users\awaraich002\Downloads\C# code practice\API\HotelListing.API\HotelListing.API
+2024-01-11 14:19:29.015 +00:00 [INF] HTTP GET / responded 404 in 1057.7393 ms
+2024-01-11 16:55:10.036 +00:00 [INF] Application is shutting down...

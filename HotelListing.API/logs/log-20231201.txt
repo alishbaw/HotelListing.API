@@ -1,0 +1,19 @@
+2023-12-01 17:50:46.011 +00:00 [INF] Now listening on: https://localhost:7024
+2023-12-01 17:50:46.041 +00:00 [INF] Now listening on: http://localhost:5089
+2023-12-01 17:50:46.045 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-01 17:50:46.047 +00:00 [INF] Hosting environment: Development
+2023-12-01 17:50:46.047 +00:00 [INF] Content root path: C:\Users\awaraich002\Downloads\C# code practice\API\HotelListing.API\HotelListing.API
+2023-12-01 17:57:20.760 +00:00 [INF] HTTP GET /api/hotels responded 200 in 1521.9197 ms
+2023-12-01 17:57:40.838 +00:00 [INF] HTTP GET /api/hotels/2 responded 200 in 113.0296 ms
+2023-12-01 17:58:16.943 +00:00 [INF] Now listening on: https://localhost:7024
+2023-12-01 17:58:16.969 +00:00 [INF] Now listening on: http://localhost:5089
+2023-12-01 17:58:16.974 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-01 17:58:16.976 +00:00 [INF] Hosting environment: Development
+2023-12-01 17:58:16.977 +00:00 [INF] Content root path: C:\Users\awaraich002\Downloads\C# code practice\API\HotelListing.API\HotelListing.API
+2023-12-01 17:58:46.591 +00:00 [INF] HTTP GET /api/hotels responded 200 in 758.9289 ms
+2023-12-01 18:00:32.933 +00:00 [INF] HTTP POST /api/hotels responded 400 in 30.4749 ms
+2023-12-01 18:01:40.418 +00:00 [INF] HTTP POST /api/hotels responded 201 in 161.1317 ms
+2023-12-01 18:03:48.854 +00:00 [INF] HTTP PUT /api/hotels/4 responded 400 in 8.3163 ms
+2023-12-01 18:04:37.816 +00:00 [INF] HTTP PUT /api/hotels/4 responded 204 in 75.0909 ms
+2023-12-01 18:04:52.453 +00:00 [INF] HTTP GET /api/hotels responded 200 in 2.3319 ms
+2023-12-01 18:05:07.874 +00:00 [INF] HTTP GET /api/hotels/4 responded 200 in 7.5455 ms
